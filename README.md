@@ -63,7 +63,8 @@
 4. 데이터셋 생성 및 미리보기
 5. ZIP 파일 다운로드
 
-[▶ Watch Demo Video](https://youtu.be/yR8frHC_38Y)
+[]()
+[![▶ Watch Demo Video](https://img.youtube.com/vi/yR8frHC_38Y/0.jpg)](https://youtu.be/yR8frHC_38Y)
 
 ---
 
